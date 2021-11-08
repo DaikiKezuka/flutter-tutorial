@@ -1,0 +1,4 @@
+#Mon Nov 08 15:35:45 JST 2021
+base.0=/Users/d-kezuka/work/flutter_study/eng_list_self/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
